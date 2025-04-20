@@ -4,7 +4,7 @@ PrivAware is an innovative voice assistant architecture designed to provide pers
 
 ## Installation
 
-To get started with NeptuneX, ensure you have Docker installed on your system. The project comes packaged with a Dockerfile for easy setup and a `requirements.txt` file for managing Python dependencies.
+To get started with PrivAware, ensure you have Docker installed on your system. The project comes packaged with a Dockerfile for easy setup and a `requirements.txt` file for managing Python dependencies.
 
 ### Steps
 
